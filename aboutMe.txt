@@ -1,0 +1,4 @@
+name: Tania Pham
+major: COEN & Web Design
+year: senior, co'22
+hobbies: journaling, piano, video games
